@@ -10,8 +10,7 @@ No redistribution – You may not publish, sell, or distribute this code.
 All rights reserved – The project is released under the APL-8 license
 
 
-Instructions to install or run the project locally.
-# Example
+# Instructions to install or run the project locally.
 git clone https://github.com/Wanheda7737/Portfolio.git
 
 cd Portfolio
