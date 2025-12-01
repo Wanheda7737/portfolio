@@ -9,8 +9,8 @@ No contributions allowed – Pull requests will not be accepted.
 No redistribution – You may not publish, sell, or distribute this code.
 All rights reserved – The project is released under the APL-8 license
 
-Instructions to install or run the project locally.
 
+Instructions to install or run the project locally.
 # Example
 git clone https://github.com/Wanheda7737/Portfolio.git
 
